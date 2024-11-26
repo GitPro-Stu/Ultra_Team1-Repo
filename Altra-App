@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828355429660",
+    "project_id": "ultra-team1",
+    "storage_bucket": "ultra-team1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828355429660:android:d94932be1d5dd0153966d9",
+        "android_client_info": {
+          "package_name": "com.ultrateam1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYFJVAjtuczUoNp2feW0ZUC08HM8xlgNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
